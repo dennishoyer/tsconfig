@@ -1,0 +1,26 @@
+{
+  "name": "@dennishoyer/tsconfig",
+  "version": "0.0.2",
+  "description": "tsconfig",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Dennis Hoyer",
+    "email": "mail@dh19.de",
+    "url": "https://dh19.de"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennishoyer/tsconfig"
+  },
+  "homepage": "https://github.com/dennishoyer/tsconfig",
+  "scripts": {
+    "publish": "npm publish --registry https://npm.dh19.de/"
+  }
+}
